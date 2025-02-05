@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajinkya-m-01&label=Profile%20views&color=0e75b6&style=flat" alt="ajinkya-m-01" /> </p>
 
-<p align="left"> <a href="https://x.com/AJINKYA_M_01_" target="blank"><img src="https://img.shields.io/twitter/follow/ajinkya_m_01_?logo=twitter&style=for-the-badge" alt="ajinkya_m_01_" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/ajinkya-mhetre-737090267/" target="blank"><img src="https://img.shields.io/twitter/follow/ajinkya_m_01_?logo=twitter&style=for-the-badge" alt="ajinkya_m_01_" /></a> </p>
 
 - 📫 How to reach me **ajinkyamhetre01@gmail.com**
 
@@ -13,7 +13,7 @@
 <a href="https://x.com/AJINKYA_M_01_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajinkya_m_01_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ajinkya-mhetre-737090267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ajinkya-mhetre-%e2%9a%a1-737090267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ajinkya.m.01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ajinkya.m.01?mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/invite/2at7jqsv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/2at7jqsv" height="30" width="40" /></a>
+<a href="http://discordapp.com/users/ajinkya_m_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/2at7jqsv" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
