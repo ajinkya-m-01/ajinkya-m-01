@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajinkya-m-01&label=Profile%20views&color=0e75b6&style=flat" alt="ajinkya-m-01" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/ajinkya-mhetre-737090267/" target="blank"><img src="https://img.shields.io/twitter/follow/ajinkya_m_01_?logo=twitter&style=for-the-badge" alt="ajinkya_m_01_" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/ajinkya-mhetre01" target="blank"><img src="https://img.shields.io/twitter/follow/ajinkya_m_01_?logo=twitter&style=for-the-badge" alt="ajinkya_m_01_" /></a> </p>
 
 - 📫 How to reach me **ajinkyamhetre01@gmail.com**
 
